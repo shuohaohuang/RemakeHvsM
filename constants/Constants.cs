@@ -54,6 +54,7 @@
            MageName = "Mage",
            MageAbility = "{0} has dealt {1} damage to {2}",
            DruidName = "Druid",
+            AttackMsg = "\n{0} has dealt {1} damage to {2}",
            DruidAbility = "{0} has healed {1} {2} hp";
 
 

@@ -37,5 +37,9 @@ namespace Menssages
             }
 
         }
+        public static void NoticeOnCoolDown(int RemainingCD)
+        {
+            Console.WriteLine(Constant.OnCooldown, RemainingCD);
+        }
     }
 }
