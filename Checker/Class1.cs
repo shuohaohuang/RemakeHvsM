@@ -1,6 +1,6 @@
 ﻿namespace Checker
 {
-    public class Cheak
+    public class Check
     {
         public static bool ValidateInput(string input, string[] validStrings)
         {

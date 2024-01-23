@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Checker\Checker.csproj" />
+    <ProjectReference Include="..\constants\constants.csproj" />
+  </ItemGroup>
+
 </Project>
