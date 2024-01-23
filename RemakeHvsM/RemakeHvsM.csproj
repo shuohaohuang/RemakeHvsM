@@ -8,7 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Checker\Checker.csproj" />
     <ProjectReference Include="..\constants\constants.csproj" />
+    <ProjectReference Include="..\Msg\Msg.csproj" />
     <ProjectReference Include="..\Stats\Stats.csproj" />
   </ItemGroup>
 
